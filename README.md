@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ankitmishra730751-arch/Leetcode-Java-Solution/tree/master/0232-implement-queue-using-stacks) |
+## Array
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/ankitmishra730751-arch/Leetcode-Java-Solution/tree/master/3875-construct-uniform-parity-array-i) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/ankitmishra730751-arch/Leetcode-Java-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
