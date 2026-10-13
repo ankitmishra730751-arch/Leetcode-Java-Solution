@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitmishra730751-arch/Leetcode-Java-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankitmishra730751-arch/Leetcode-Java-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ankitmishra730751-arch/Leetcode-Java-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitmishra730751-arch/Leetcode-Java-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankitmishra730751-arch/Leetcode-Java-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ankitmishra730751-arch/Leetcode-Java-Solution/tree/master/3903-smallest-stable-index-i) |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitmishra730751-arch/Leetcode-Java-Solution/tree/master/3483-unique-3-digit-even-numbers) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ankitmishra730751-arch/Leetcode-Java-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ankitmishra730751-arch/Leetcode-Java-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
